@@ -1,0 +1,15 @@
+{
+    "name": "filebrowser.xiaoguo",
+    "description": "description of FileBrowser",
+    "architecture": "@CLICK_ARCH@",
+    "title": "FileBrowser",
+    "hooks": {
+        "FileBrowser": {
+            "apparmor": "FileBrowser/FileBrowser.apparmor",
+            "desktop": "FileBrowser/FileBrowser.desktop"
+        }
+    },
+    "version": "0.7",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework": "ubuntu-sdk-15.04"
+}

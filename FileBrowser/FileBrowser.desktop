@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=FileBrowser
+Exec=FileBrowser
+Icon=FileBrowser/FileBrowser.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>FileBrowser.qml</file>
+        <file>images/folder.png</file>
+        <file>images/up.png</file>
+        <file>DetailPage.qml</file>
+        <file>images/hidden.png</file>
+        <file>images/hidden1.png</file>
+        <file>images/log.png</file>
+        <file>images/log1.png</file>
+        <file>InfoPage.qml</file>
+        <file>images/icon.jpg</file>
+        <file>images/syslog.png</file>
+        <file>jscode.js</file>
+    </qresource>
+</RCC>
